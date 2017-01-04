@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel</div>
+                <div class="title">Laravel ayoub</div>
             </div>
         </div>
     </body>
